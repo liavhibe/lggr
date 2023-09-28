@@ -1,3 +1,11 @@
 body {
 	text-align: center;
 }
+ul {
+	padding-left: 0;
+	list-style: none;
+}
+input, select {
+	text-align: center;
+	margin: 0 auto;
+}
